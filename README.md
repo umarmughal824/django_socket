@@ -1,4 +1,4 @@
-# django_socket
+# Django web sockets implementation
 django socket example using django channels
 
 
@@ -13,6 +13,9 @@ It has two features
 1 - Web Service -> Generating Random number and random time
 Just visit the home page `localhost:127.0.0.1:8000` and click `Submit` button to call the web service that will be keep generating the random number and random time and you will see the generating number on that same page and it will be printing  all the numbers in real time without keeping any memory space for that numbers.
 
+Working Screenshots
+
+![Image](https://i.ibb.co/HKhTrz0/Screenshot-2020-05-31-at-02-23-44.png)
 
 2 - Chat Server
 Just go /chat/ and enter the room name. That will redirect to that room and where you can type the messages and it will be shown realtime.
