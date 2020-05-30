@@ -22,7 +22,7 @@ Just go /chat/ and enter the room name. That will redirect to that room and wher
 
 Working Screenshots
 ![image3](https://i.ibb.co/pWnKk77/Screenshot-2020-05-31-at-02-30-54.png)
-![image4](https://i.ibb.co/zRRBHVn/Screenshot-2020-05-31-at-02-32-55.png)
+![image4](https://i.ibb.co/h94X8TV/Screenshot-2020-05-31-at-02-33-17.pngg)
 ![image5](https://i.ibb.co/zRRBHVn/Screenshot-2020-05-31-at-02-32-55.png)
 
 You can test that feature with different browser and they can communicate with each other from different browsers. If we deploy that will be able to communicate with different devices.
