@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
+    path('', include('doulix.urls')),
     path('chat/', include('chat.urls')),
     path('admin/', admin.site.urls),
 ]
